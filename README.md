@@ -14,3 +14,11 @@
 ##### My First Assignment
 
 [高雄科技大學](https://www.nkust.edu.tw/)
+
+| First | Second | Third |
+|:------|:------:|------:|
+| 1 | 2 | 3 |
+| 4 | 4 | 6 |
+
+:smile:
+:heart:
